@@ -2,6 +2,9 @@
 
 Speaker: [Ang Weoy Yang](https://github.com/Ang-dot)
 
+![62604618](https://github.com/gdsc-apu/git-workshop/assets/79584803/7876f1de-ae69-4c6b-860d-66f1a816385f)
+
+
 This repo is for a Git Workshop done in Asia Pacific University of Technology & Innovation in Malaysia.
 
 Students are welcome to make their FIRST ever contribution to this repo to make the website looks nicer. 🤗
